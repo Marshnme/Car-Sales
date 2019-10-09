@@ -6,4 +6,4 @@
 //     reduc
 // })
 
-export {reducer} from "./reducer";
+export {featureReducer} from "./featureReducer";
